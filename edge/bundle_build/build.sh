@@ -1,0 +1,1 @@
+docker build -t dx_edge -f Dockerfile ..

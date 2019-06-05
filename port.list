@@ -1,0 +1,11 @@
+cadvisor: 9001 -> 8080
+node manage on deploy-service: 7000
+user-service: 8880
+function-service: 8881
+workflow-service: 8882
+deploy-service: 8883
+test-service: 8884
+stats-service: 8885
+
+device listen port when testing functions and workflows: 6007
+device listen port when do data sending for workflow: 6999

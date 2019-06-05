@@ -1,0 +1,20 @@
+{
+    "category": "function",
+    "action": "pullup",
+    "data": [{
+        "runtime_id": "125",
+        "name": "admin/function/hello-world",
+        "image": "dx/python3:0.0.3",
+        "source": "http://vancior-picgo.oss-cn-beijing.aliyuncs.com/functions/test1/function.zip",
+        "version": "v1.0.0",
+        "trigger": "HTTP",
+        "workflow": null,
+        "entrypoint": "main.handle",
+        "input": null,
+        "output": null,
+        "cpu": 2,
+        "memory": 1024,
+        "max_runtime": 1000,
+        "keepalive": 1000
+    }]
+}

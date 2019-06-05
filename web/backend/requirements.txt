@@ -1,0 +1,11 @@
+aiohttp
+aiomysql
+aioredis
+bcrypt
+coloredlogs
+minio
+msgpack
+networkx
+pyjwt
+tornado
+watchgod

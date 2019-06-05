@@ -1,0 +1,36 @@
+{
+  "name": "frontend2",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "chart.js": "^2.8.0",
+    "d3": "^5.9.2",
+    "dagre-d3": "^0.6.3",
+    "iview": "^3.0.1",
+    "tippy.js": "^4.3.1",
+    "vue": "^2.6.6",
+    "vue-axios": "^2.1.4",
+    "vue-chartjs": "^3.4.2",
+    "vue-cookies": "^1.5.13",
+    "vue-router": "^3.0.1",
+    "vue2-ace-editor": "^0.0.13",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.5.0",
+    "@vue/cli-plugin-eslint": "^3.5.0",
+    "@vue/cli-service": "^3.5.0",
+    "@vue/eslint-config-prettier": "^4.0.1",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.8.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "vue-cli-plugin-iview": "^1.0.6",
+    "vue-template-compiler": "^2.5.21"
+  }
+}
