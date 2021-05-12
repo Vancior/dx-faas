@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
-    "chart.js": "^2.8.0",
+    "chart.js": "^2.9.4",
     "d3": "^5.9.2",
     "dagre-d3": "^0.6.3",
     "iview": "^3.0.1",
